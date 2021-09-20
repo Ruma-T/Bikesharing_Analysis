@@ -1,12 +1,34 @@
 # Bikesharing_Analysis
-In your README markdown file, include the following:
 
+![png_Bike-Share-shutterstock_177052685-e1535397575283](https://github.com/Ruma-T/Bikesharing_Analysis/blob/main/Resources/Bike-Share-shutterstock_177052685-e1535397575283.jpg)
+
+Coutsey: Google
+
+### Purpose of this analysis:
+
+By showing NYC Citibike Analysis we have toconvince investors for a bike-sharing program in Des Moines . 
+
+### Analysis
+
+* We used Pandas to change the "tripduration" column from an integer to a datetime datatype.
+
+Datatype: Int64
+![png_Ch14p2](https://github.com/Ruma-T/Bikesharing_Analysis/blob/main/Resources/Ch14p2.PNG)
+
+
+
+
+Datatype: Datetime6
+![png_Ch14p3](https://github.com/Ruma-T/Bikesharing_Analysis/blob/main/Resources/Ch14p3.PNG)
+
+
+
+
+![png_Ch14p1](https://github.com/Ruma-T/Bikesharing_Analysis/blob/main/Resources/Ch14p1.PNG)
+
+
+
+
+Results: 
 Link to Dashboard:https://public.tableau.com/app/profile/ruma.talukder/viz/challenge_16319746933860/Challenge14?publish=yes
- convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
-Overview of the analysis: Explain the purpose of this analysis.
-Pandas to change the "tripduration" column from an integer to a datetime datatype.
-Show the length of time that bikes are checked out for all riders and genders
-Show the number of bike trips for all riders and genders for each hour of each day of the week
-Show the number of bike trips for each type of user and gender for each day of the week.
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+ 

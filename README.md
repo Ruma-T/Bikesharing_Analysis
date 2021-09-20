@@ -6,7 +6,7 @@ Coutsey: Google
 
 ### Purpose of this analysis:
 
-By showing NYC Citibike Analysis we have toconvince investors for a bike-sharing program in Des Moines . 
+By showing NYC Citibike Analysis we have to convince investors for investing on a bike-sharing program in Des Moines . 
 
 ### Analysis
 

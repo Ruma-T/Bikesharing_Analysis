@@ -27,10 +27,10 @@ Datatype: Datetime6
 ![png_Ch14p1](https://github.com/Ruma-T/Bikesharing_Analysis/blob/main/Resources/Ch14p1.PNG)
 
 
-Summary:
+### Summary:
 The NYC Citibike Analysis shows the summary of all the visual representation .
 I have included two more anaysis of Top Starting location and Monthly peak hour for future reference.
 
-Results: 
-Link to Dashboard:https://public.tableau.com/app/profile/ruma.talukder/viz/challenge_16319746933860/Challenge14?publish=yes
+### Results: 
+### Link to Dashboard:https://public.tableau.com/app/profile/ruma.talukder/viz/challenge_16319746933860/Challenge14?publish=yes
  
